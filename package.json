@@ -1,0 +1,26 @@
+{
+  "name": "@winkhanh/common-components",
+  "version": "1.0.0",
+  "description": "a package of common React/React Native component create by winkhanh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winkhanh/npm-common-components.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "winkhanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winkhanh/npm-common-components/issues"
+  },
+  "homepage": "https://github.com/winkhanh/npm-common-components#readme",
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "react": "^16.13.1"
+  }
+}
